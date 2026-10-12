@@ -1,6 +1,6 @@
 # Cycle design and nitrogen management for adsorption-based carbon capture
 
-Data and code release for the study "Process performance and techno-economics of cycle design and nitrogen management for adsorption-based carbon capture" (under review).
+Data and code release for the study "Cycle design reshapes the economics of nitrogen recovery in adsorption-based carbon capture" (under review).
 
 ## Contents (release v1.0.0 assets)
 
