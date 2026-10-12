@@ -1,4 +1,4 @@
-# Cycle design and nitrogen management for adsorption-based carbon capture
+# Data and code for: Cycle design reshapes the economics of nitrogen recovery in adsorption-based carbon capture
 
 Data and code release for the study "Cycle design reshapes the economics of nitrogen recovery in adsorption-based carbon capture" (under review).
 
